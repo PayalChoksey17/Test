@@ -1,0 +1,26 @@
+# Login to the application - Valid Credentials
+1. Open the application
+2. Enter username
+3. Enter Password
+4. Click on Signin button
+
+# To verify dasboard page has opened
+1. OPen the application
+2. Enter the valid username
+3. Enter valid password
+4. Click on signin button
+5. Verify if dashboard page has opened
+
+# open the Edit time Page
+1. Open the application
+2. Enter valid username
+3. Enter valid password
+3. Click on signin button
+4. Click on Edit Time link
+5. Verify if Edit time page opened
+
+# Edit time page - Different views
+
+
+# Edit time Page - Selecting the time zone
+
